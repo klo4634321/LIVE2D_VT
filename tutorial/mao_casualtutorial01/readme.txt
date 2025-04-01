@@ -1,0 +1,2 @@
+10分鐘了解眨眼
+httpsdocs.live2d.comcubism-editor-tutorialseye-blinkutm_source=L2Dmarcomm&utm_medium=youtube&utm_campaign=casual_tutorial
