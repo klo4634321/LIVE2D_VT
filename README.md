@@ -8,7 +8,7 @@
 1. **Stable Diffusion**（或其他 AI 生成工具） – 生成初步角色草圖  
 2. **Photoshop（或其他繪圖軟體）** – 處理角色圖層與切割關節  
 3. **Live2D Cubism Editor** – 製作 Live2D 模型  
-
+4. **VTube Studio** - 完成人臉到 Live2D 的映射
 ---
 
 ## 🚀 製作步驟  
