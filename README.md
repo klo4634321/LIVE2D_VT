@@ -1,6 +1,6 @@
 # 自製 VTuber (VT) 指南  
 
-本指南將帶你一步步製作 VTuber（VT），從 AI (stable-diffusion)生成草圖，到 Photoshop 編輯，再到 Live2D 綁定骨架，最終實現 VTuber 的基礎 Live2D 模型。  
+本指南將帶你一步步製作 VTuber（VT），從 AI（stable-diffusion）生成草圖，到 Photoshop 編輯，再到 Live2D 綁定骨架，最終實現 VTuber 的基礎 Live2D 模型。  
 <img src="https://img.shields.io/badge/Stable_Diffusion-%23FF6600.svg?logo=stable-diffusion&logoColor=white" alt="Stable Diffusion">
 <img src="https://img.shields.io/badge/Photoshop-%2300C8FF.svg?logo=adobe-photoshop&logoColor=white" alt="Photoshop">
 <img src="https://img.shields.io/badge/Live2D_Cubism-%2300C300.svg?logo=live2d&logoColor=white" alt="Live2D Cubism">
